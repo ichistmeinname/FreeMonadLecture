@@ -1,7 +1,7 @@
 > {-# LANGUAGE MultiParamTypeClasses #-}
 > {-# LANGUAGE FlexibleInstances #-}
 
-> module FreeMonad where
+> module Lecture where
 >
 > import Data.Functor.Identity (Identity(..))
 
